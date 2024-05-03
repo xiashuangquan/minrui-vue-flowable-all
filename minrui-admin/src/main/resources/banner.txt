@@ -1,0 +1,4 @@
+Application name: ${minrui.name}
+Application Version: ${minrui.version}
+Application copyrightYear: ${minrui.copyrightYear}
+Spring Boot Version: ${spring-boot.version}
